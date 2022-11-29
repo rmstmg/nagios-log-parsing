@@ -1,2 +1,2 @@
-# nagios-log-parsing
-Nagios Log parser
+#This repository contains the list of python scripts related to system admin tasks.
+
